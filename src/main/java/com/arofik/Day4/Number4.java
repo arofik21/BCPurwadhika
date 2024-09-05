@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Number4 {
-    public static void main(String[] args) {
+    public static void run() {
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
 
@@ -16,7 +16,7 @@ public class Number4 {
         System.out.println("Saya telah memilih angka antara 1 dan 100. Coba tebak!");
 
         do {
-            System.out.print("Masukkan tebakan Anda: ");
+            System.out.println("Masukkan tebakan Anda: ");
             tebakan = scanner.nextInt();
             jumlahTebakan++;
 
@@ -29,7 +29,6 @@ public class Number4 {
                 System.out.println("Anda menebak angka dalam " + jumlahTebakan + " percobaan.");
             }
         } while (tebakan != targetAngka);
-
         scanner.close();
     }
 }

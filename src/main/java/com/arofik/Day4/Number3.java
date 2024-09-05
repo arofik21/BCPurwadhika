@@ -20,6 +20,6 @@ public class Number3 {
         } while (!input.equals("n"));
 
         System.out.println(angka);
-        scanner.close();
+
     }
 }

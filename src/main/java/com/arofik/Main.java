@@ -8,5 +8,6 @@ public class Main {
         Pattern.run();
         Number3.run();
         Number5.run();
+        Number4.run();
     }
 }
