@@ -1,10 +1,6 @@
 package com.arofik;
 
-import com.arofik.Day4.*;
-import com.arofik.Day5.CurrencyConverter;
-import com.arofik.Day5.EvenNumberFilter;
-import com.arofik.Day5.FizzBuzz;
-import com.arofik.Day5.GuessGame;
+import com.arofik.Day6.StringReverse;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,6 +14,11 @@ public class Main {
         //GuessGame.run();
         //CurrencyConverter.run();
         //EvenNumberFilter.run();
-        FizzBuzz.run();
+        //FizzBuzz.run();
+
+        //Day6
+        //ArrayRotation.run();
+        //ArrayContainsDuplicates.run();
+        StringReverse.run();
     }
 }
