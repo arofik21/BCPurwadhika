@@ -10,6 +10,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arofik21"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arofik21/BCPurwadhika.git",
+    "accountId": "cc599ce4-7646-4074-935a-3c31cba363ad"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -22,10 +49,103 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.com.arofik.Day4.Multiple.executor": "Coverage",
+    "Gradle.BCPurwadhika [:Multiple.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day1.Main.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day10.Main.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day4.Multiple.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day4.MultipleTable.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day4.Number4.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day8.OOP.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day9.ToDoApp.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Day9.ToDoListApp.main()].executor": "Run",
+    "Gradle.BCPurwadhika [:com.arofik.Main.main()].executor": "Run",
+    "Gradle.Build BCPurwadhika.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.com.arofik.Day10.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arofik.Main" />
+      <module name="BCPurwadhika.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arofik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arofik.Day8.OOP" />
+      <module name="BCPurwadhika.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arofik.Day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arofik.Day9.ToDoApp" />
+      <module name="BCPurwadhika.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arofik.Day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToDoListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arofik.Day9.ToDoListApp" />
+      <module name="BCPurwadhika.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arofik.Day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.arofik.Day10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arofik.Day10.Main" />
+      <module name="BCPurwadhika.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arofik.Day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.arofik.Day10.Main" />
+        <item itemvalue="Application.ToDoApp" />
+        <item itemvalue="Application.ToDoListApp" />
+        <item itemvalue="Application.OOP" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +156,40 @@
       <updated>1725449282826</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/arofik/Day4/MultipleTable.java</url>
+          <line>2</line>
+          <properties class="com.arofik.Day4.MultipleTable" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/arofik/Day5/EvenNumberFilter.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/arofik/Day5/EvenNumberFilter.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/arofik/Day6/DaysUntilWarmer.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BCPurwadhika$com_arofik_Day4_Multiple.ic" NAME="com.arofik.Day4.Multiple Coverage Results" MODIFIED="1725521076553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.arofik.Day4.*</FILTER>
+    </SUITE>
   </component>
 </project>
